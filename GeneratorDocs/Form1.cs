@@ -30,13 +30,14 @@ namespace GeneratorDocs
             try
             {
                 File.Copy(pathParent, filename);
+                Editting g = new Editting(filename, UFamily.Text, UNameOtc.Text, UCollege.Text, USpecialnost.Text, USpezializaz.Text, ULearnPrg.Text, UProfQual.Text, Family.Text, NameOtc.Text, College.Text, Specialnost.Text, Spezializaz.Text, LearnPrg.Text, ProfQual.Text);
+                g.mau();
             }
             catch (Exception г)
             {
                 MessageBox.Show("Вы неосторожны", "Внимательнее");
             }
-            Editting g = new Editting(filename, UFamily.Text, UNameOtc.Text, UCollege.Text, USpecialnost.Text, USpezializaz.Text, ULearnPrg.Text, UProfQual.Text, Family.Text, NameOtc.Text, College.Text, Specialnost.Text, Spezializaz.Text, LearnPrg.Text, ProfQual.Text);
-            g.mau();
+            
         }
     }
 }
