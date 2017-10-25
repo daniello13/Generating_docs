@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\GeneratorDocs\GeneratorDocs\bin\Debug\GeneratorDocs.exe.config
+C:\Users\Daniel\Desktop\GeneratorDocs\GeneratorDocs\bin\Debug\GeneratorDocs.exe
+C:\Users\Daniel\Desktop\GeneratorDocs\GeneratorDocs\bin\Debug\GeneratorDocs.pdb
+C:\Users\Daniel\Desktop\GeneratorDocs\GeneratorDocs\obj\Debug\GeneratorDocs.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\GeneratorDocs\GeneratorDocs\obj\Debug\GeneratorDocs.MainWin.resources
+C:\Users\Daniel\Desktop\GeneratorDocs\GeneratorDocs\obj\Debug\GeneratorDocs.Properties.Resources.resources
+C:\Users\Daniel\Desktop\GeneratorDocs\GeneratorDocs\obj\Debug\GeneratorDocs.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\GeneratorDocs\GeneratorDocs\obj\Debug\GeneratorDocs.exe
+C:\Users\Daniel\Desktop\GeneratorDocs\GeneratorDocs\obj\Debug\GeneratorDocs.pdb
